@@ -1,2 +1,0 @@
-API_KEY = "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"
-
